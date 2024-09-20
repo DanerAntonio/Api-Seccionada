@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 
 // Importar rutas
 
-const carritoRoutes = require('../teosof-api/Src/Routes/CarritoRoutes');
+const carritoRoutes = require('./Src/Routes/CarritoRoutes');
 
 
 
